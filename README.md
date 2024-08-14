@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello Everyone, Welcome to my little world:D
+I am a passionate techie and continuous learner. I specialize in IoT and enjoy working on projects where I can exploit my skills.
+
+## Programming Languages
 
 <!--
 **samdiazhdz/samdiazhdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
